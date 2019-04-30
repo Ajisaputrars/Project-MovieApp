@@ -13,9 +13,8 @@ Aplikasi ini memiliki fitur yang wajib ada agar bisa lulus dari kelas Intermedia
 7. Menyortir film di halaman depan dengan preferensi Top Rated, Most Popular, dan Coming Soon.
 
 <p align="center">
-  <img src="https://github.com/Ajisaputrars/Project-PopularMoviesApp-Android/blob/master/image3.png" width="450" align="center">
+  <img src="https://github.com/Ajisaputrars/Project-PopularMoviesApp-Android/blob/master/image3.png" width="750" align="center">
 </p>
-
 
 ### **Author**
 
